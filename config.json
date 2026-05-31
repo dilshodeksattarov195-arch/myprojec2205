@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasevncrypt",
+        "uuid": 14833035,
+        "checksum": "c1r1p6"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
